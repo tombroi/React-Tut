@@ -1,0 +1,11 @@
+td,
+th {
+  border: 1px dashed green;
+  padding: 5px;
+}
+th {
+  background-color: cyan;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
